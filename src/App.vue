@@ -29,7 +29,7 @@ export default{
   margin: 0;
 }
 .app{
-  height: 100vh;
+  height: 100%;
   background-image: url("@/assets/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;

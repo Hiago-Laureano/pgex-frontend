@@ -23,13 +23,3 @@ export default{
     name: "Footer"
 }
 </script>
-
-<style scoped>
-@media screen and (min-width: 769px) and (min-height: 841px){
-    .footer{
-        position: absolute;
-        bottom: 0;
-        width: 100%;
-    }
-}
-</style>

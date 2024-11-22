@@ -21,4 +21,9 @@ export default {
 .home{
   min-height: 500px;
 }
+@media screen and (min-width: 769px) and (min-height: 841px){
+    .home{
+        min-height: 100vh;
+    }
+}
 </style>
